@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Montserat';
+    font-weight: 500;
+    src: url(./Montserat-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Montserat';
+    font-weight: 400;
+    src: url(./Montserat-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Montserat';
+    font-weight: 600;
+    src: url(./Montserat-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: 'Montserat';
+    font-weight: 700;
+    src: url(./Montserat-Bold.ttf);
+}
