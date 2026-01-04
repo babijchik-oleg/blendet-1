@@ -108,13 +108,18 @@ color: #0c0c0c;
 }
 
 .header-nav-link.current {
+    position: relative;
 }
 
 .header-nav-link.current::after {
 content: '';
-
+position: absolute;
+left: 50%;
+bottom: 4px;
+display: block;
 width: 8px;
 height: 8px;
+transform:translate(-50%);
 border-radius: 50%;
 background-color: #3350E9;
 
